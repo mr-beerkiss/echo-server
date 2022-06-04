@@ -1,4 +1,4 @@
-# Echo Server ![ci workflow](https://github.com/mr-beerkiss/echo-server/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+# Echo Server [![CI](https://github.com/mr-beerkiss/echo-server/actions/workflows/ci.yml/badge.svg)](https://github.com/mr-beerkiss/echo-server/actions/workflows/ci.yml)
 
 
 A very simple HTTP echo server with support for websockets and server-sent
