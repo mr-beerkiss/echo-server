@@ -1,4 +1,5 @@
-# Echo Server
+# Echo Server ![ci workflow](https://github.com/mr-beerkiss/echo-server/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
 
 A very simple HTTP echo server with support for websockets and server-sent
 events (SSE).
